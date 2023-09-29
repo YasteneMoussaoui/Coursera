@@ -1,0 +1,31 @@
+body{
+    background-color:azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#navbar {
+    background-color: aqua;
+}
+.navbar-brand{
+    font-size: 25px !important ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+#navbarNav{
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: bold;;
+}
+#navbarNav > ul > li {
+    margin-bottom: 3px;
+    background-color:bisque
+}
+h1{
+    margin: 10px;
+}
+section{
+    background-color: aquamarine;
+}
